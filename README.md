@@ -49,7 +49,7 @@ https://github.com/Hasnainkhan40/AiDuel/raw/main/assets/video/aiDuel-v.mp4
 **Short preview GIF (fallback)**  
 ![Demo GIF](assets/demo.gif)
 
-> Tip: If the video still fails to play in README, click the link above to download/play it directly in your browser or consider uploading the video to YouTube and linking it.
+
 
 
 
