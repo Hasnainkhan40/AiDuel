@@ -1,15 +1,19 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=🤖+AiDuel;Voice+%2B+Text+AI+Interaction+App;Built+With+Flutter+%F0%9F%93%B1" alt="AiDuel Logo Animation" />
+
+██████╗ ██╗      █████╗ ██████╗ ██╗   ██╗███████╗██╗     
+██╔══██╗██║     ██╔══██╗██╔══██╗██║   ██║██╔════╝██║     
+██║  ██║██║     ███████║██████╔╝██║   ██║█████╗  ██║     
+██║  ██║██║     ██╔══██║██╔══██╗██║   ██║██╔══╝  ██║     
+██████╔╝███████╗██║  ██║██║  ██║╚██████╔╝██║     ███████╗
+╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚══════╝
+
+🤖  AiDuel — Voice + Text AI Interaction App  
+📱  Built with Flutter
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-00C4FF?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Hasnainkhan40/AiDuel?style=for-the-badge&color=yellow" />
-</p>
-
 ---
+
+
 
 
 ## 🧠 AiDuel — The Voice + Text AI Dueler
