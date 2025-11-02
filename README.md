@@ -39,7 +39,8 @@
 
 🎬 **Watch the Demo Below:**
 
-<video src="assets/video/aiDuel-v.mp4" controls width="600"></video>
+<video src="https://github.com/Hasnainkhan40/AiDuel/raw/main/assets/video/aiDuel-v.mp4" controls width="600"></video>
+
 
 | 🎤 Listening | 💬 Typing | ✨ AI Responding |
 |--------------|-----------|----------------|
