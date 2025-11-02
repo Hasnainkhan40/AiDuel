@@ -37,16 +37,20 @@
 
 ## 🖼️ Live Demo Preview
 
-🎬 **Watch the Demo Below:**
+🎬 **Watch the Demo**
 
-<video src="https://github.com/Hasnainkhan40/AiDuel/raw/main/assets/video/aiDuel-v.mp4" controls width="600"></video>
+If the inline video doesn't load in your browser, click the link below:
+https://github.com/Hasnainkhan40/AiDuel/raw/main/assets/video/aiDuel-v.mp4
 
+<video src="https://raw.githubusercontent.com/Hasnainkhan40/AiDuel/main/assets/video/aiDuel-v.mp4" controls width="720" preload="metadata">
+  Your browser does not support the video tag. View the video here: https://github.com/Hasnainkhan40/AiDuel/raw/main/assets/video/aiDuel-v.mp4
+</video>
 
-| 🎤 Listening | 💬 Typing | ✨ AI Responding |
-|--------------|-----------|----------------|
-| ![Mic Animation](assets/mic.gif) | ![Typing](assets/typing.gif) | ![Response](assets/response.gif) |
+**Short preview GIF (fallback)**  
+![Demo GIF](assets/demo.gif)
 
-> *(The full demo video plays above — and short animated previews below.)*
+> Tip: If the video still fails to play in README, click the link above to download/play it directly in your browser or consider uploading the video to YouTube and linking it.
+
 
 
 ## 🧩 Tech Stack
