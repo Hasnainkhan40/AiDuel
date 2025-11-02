@@ -37,13 +37,16 @@
 
 ## 🖼️ Live Demo Preview
 
+🎬 **Watch the Demo Below:**
+
+<video src="assets/video/aiDuel-v.mp4" controls width="600"></video>
+
 | 🎤 Listening | 💬 Typing | ✨ AI Responding |
 |--------------|-----------|----------------|
-| ![Mic Animation](https://github.com/yourusername/AiDuel/assets/mic.gif) | ![Typing](https://github.com/yourusername/AiDuel/assets/typing.gif) | ![Response](https://github.com/yourusername/AiDuel/assets/response.gif) |
+| ![Mic Animation](assets/mic.gif) | ![Typing](assets/typing.gif) | ![Response](assets/response.gif) |
 
-> *(Replace GIFs with your real screen recordings — they auto-play on GitHub!)*
+> *(The full demo video plays above — and short animated previews below.)*
 
----
 
 ## 🧩 Tech Stack
 
